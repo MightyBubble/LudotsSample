@@ -38,3 +38,7 @@ Ludots/mods/showcases/east_asia_playable_terrain/EastAsiaPlayableTerrainMod/asse
 4fb59c9eec450d301b405bd336cf37cc2b221532e8dbad6186de10ac89ff8293  east_asia/east_asia_hex.vtxm
 537704c2832d5b25c4ebeb4b9f781959e56badd0d2d5ecd68ff0922d28e94487  east_asia/east_asia_continuous.vhtm
 ```
+
+```
+3c738ae1495e9013bd229851fe365f93c4019a5f0854e8ea0386636245d6c553  east_asia/east_asia_grid_map_data.bin（112MB；与 east_asia_hex_source_map_data.bin 同内容，互为别名）
+```
